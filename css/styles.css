@@ -2,14 +2,21 @@ h3 {
   text-align: center;
 }
 
+img {
+  padding: 6px;
+}
+
 .before {
   float: left;
+  background-color: orange;
 }
 
 .during {
   float: left;
+  background-color: yellow;
 }
 
 .after {
   float: left;
+  background-color: green;
 }
